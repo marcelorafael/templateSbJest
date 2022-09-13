@@ -1,8 +1,8 @@
 {
-    "name": "react-native-template-simpleredux-boilerplate1",
+    "name": "react-native-template-templateSbJest",
     "version": "0.0.1",
-    "description": "React Native Simple Redux with Navigation Template",
-    "repository": "https://github.com/roycechua23/react-native-template-simpleredux-boilerplate1",
-    "author": "Royce Chua <royce236@gmail.com>",
+    "description": "React Native with Storybook and Jest",
+    "repository": "https://github.com/marcelorafael/templateSbJest/blob/master/package.json",
+    "author": "Marcelo Rfael <marcelorafael23@hotmail.com>",
     "license": "MIT"
   }
